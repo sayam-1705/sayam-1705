@@ -14,7 +14,7 @@
 ---
 
 <details open>
-  <summary>✨ <b>About Me</b> (click to expand)</summary>
+  <summary>✨ <b>About Me</b></summary>
 
 - 🔭 Currently working on: [recipe-nest](https://github.com/sayam-1705/recipe-nest), [journal-app](https://github.com/sayam-1705/journal-app)
 - 🌱 Learning: Next.js
