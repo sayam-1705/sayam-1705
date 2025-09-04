@@ -24,6 +24,51 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="40" height="40"/>
+</p>
+
+### 🧩 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" title="ReactJS" alt="ReactJS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="40" height="40"/>
+</p>
+
+### 🧰 Tools & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40" style="background:white; border-radius:8px; padding:4px;"/>
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam-1705&layout=compact&theme=tokyonight&langs_count=4"/>
+</p>
+
+---
+
 ## 🌐 Connect with me
 
 <p align="left">
@@ -46,60 +91,6 @@
   <a href="https://github.com/sayam-1705" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="40" height="40"/>
   </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="40" height="40"/>
-</p>
-
-### 🧩 Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" title="ReactJS" alt="ReactJS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" alt="NestJS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="40" height="40"/>
-</p>
-
-### 🧰 Tools & IDEs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40" style="background:white; border-radius:8px; padding:4px;"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayam-1705&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam-1705&layout=compact&theme=tokyonight&langs_count=4"/>
 </p>
 
 ---
