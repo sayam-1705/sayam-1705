@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sayam+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Let's+build+something+amazing+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sayam+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Let's+build+something+amazing+%F0%9F%92%BB" alt="Say hi!" />
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 <details open>
   <summary>✨ <b>About Me</b></summary>
 
-- 🔭 Currently working on: [recipe-nest](https://github.com/sayam-1705/recipe-nest), [journal-app](https://github.com/sayam-1705/journal-app)
-- 🌱 Learning: Next.js
-- 💬 Ask me about: Web development, Next.js, Git, and more
+- **Currently working on:** [recipe-nest](https://github.com/sayam-1705/recipe-nest)
+- **Learning:** Next.js and the latest web technologies  
+- **Open to:** Collaborating on interesting projects or discussing new ideas.
 
 </details>
 
@@ -32,18 +32,18 @@
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="40" height="40"/>
 </p>
 
 ### 🧩 Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" title="ReactJS" alt="ReactJS" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nextjs" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=express" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 </p>
 
 ### 🗄️ Databases
@@ -56,7 +56,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40" style="background:white; border-radius:8px; padding:4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40" style="background:white; border-radius:8px;"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@
   </a>
   <a href="https://www.facebook.com/sayam.1705" target="_blank">
     <!-- Facebook SVG in official blue -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" title="Facebook" alt="Facebook" width="40" height="40" style="border-radius:8px; padding:4px; background:white;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" title="Facebook" alt="Facebook" width="40" height="40" style="border-radius:8px; padding:4px; background:#1877f2;"/>
   </a>
   <a href="https://x.com/sayam_1705" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" title="X (Twitter)" alt="X (Twitter)" width="40" height="40"/>
@@ -102,7 +102,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake" src="github-snake.svg" />
-</picture>
+  </picture>
 </p>
 
 ---
