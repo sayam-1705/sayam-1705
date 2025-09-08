@@ -17,7 +17,7 @@
   <summary>✨ <b>About Me</b></summary>
 
 - **Currently working on:** [recipe-nest](https://github.com/sayam-1705/recipe-nest)
-- **Learning:** Next.js and the latest web technologies  
+- **Learning:** three.js and the latest web technologies
 - **Open to:** Collaborating on interesting projects or discussing new ideas.
 
 </details>
