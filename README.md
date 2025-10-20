@@ -39,10 +39,10 @@
 
 ### 🧩 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" title="ReactJS" alt="ReactJS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" title="NextJS" alt="NextJS" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=express" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" title="ReactJS" alt="ReactJS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" title="NextJS" alt="NextJS" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
@@ -54,9 +54,10 @@
 
 ### 🧰 Tools & IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40" style="background:white; border-radius:8px;"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="40" height="40"/>
 </p>
 
 ---
