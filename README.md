@@ -65,7 +65,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam-1705&layout=compact&theme=tokyonight&langs_count=4" width="48%" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam-1705&layout=compact&theme=tokyonight&langs_count=4" width="35%" alt="Most Used Languages"/>
 </p>
 
 ---
