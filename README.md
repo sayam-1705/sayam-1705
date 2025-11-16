@@ -16,9 +16,11 @@
 <details open>
   <summary>✨ <b>About Me</b></summary>
 
-- **Recently worked on:** [recipe-nest](https://github.com/sayam-1705/recipe-nest)
-- **Learning:** three.js and the latest web technologies
-- **Open to:** Collaborating on interesting projects or discussing new ideas.
+- **Name:** Sayam — GitHub: [@sayam-1705](https://github.com/sayam-1705)
+- **Role:** Full‑stack developer focused on building well‑structured web applications and APIs.
+- **Tech:** Node.js, TypeScript, Next.js, React, databases, and modern web tooling.
+- **Work style:** Clean, maintainable code, clear documentation, and pragmatic problem solving.
+- **Open to:** Collaborating on projects, exchanging ideas, and contributing to open‑source.
 
 </details>
 
