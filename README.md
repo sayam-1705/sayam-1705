@@ -109,8 +109,7 @@ const sayam = {
 </p>
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=sayam-1705&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sayam1705&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Coding%20Activity&layout=compact" alt="Coding Activity"/>
+  <img width="64%" src="https://streak-stats.demolab.com?user=sayam-1705&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </p>
 
 <br/>
