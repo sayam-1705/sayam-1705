@@ -292,6 +292,8 @@ current_status:
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sayam-1705/sayam-1705/output/github-contribution-grid-snake.svg" />
   </picture>
   
+  <p><sub>Note: Snake animation requires GitHub Actions workflow setup</sub></p>
+  
 </div>
 
 <br/>
