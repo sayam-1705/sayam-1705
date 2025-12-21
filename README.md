@@ -1,28 +1,42 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sayam+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Let's+build+something+amazing+%F0%9F%92%BB" alt="Say hi!" />
-</p>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,13,20&height=200&section=header&text=Sayam%20Mondal&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/sayam-1705?tab=followers">
-    <img src="https://img.shields.io/github/followers/sayam-1705?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=sayam-1705">
-    <img src="https://komarev.com/ghpvc/?username=sayam-1705&color=1E90FF" alt="Profile views"/>
-  </a>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sayam+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Let's+build+something+amazing+%F0%9F%92%BB" alt="Say hi!" />
+
+  <p>
+    <a href="https://github.com/sayam-1705?tab=followers">
+        <img src="https://img.shields.io/github/followers/sayam-1705?label=Followers&style=for-the-badge&color=58A6FF&labelColor=1B1F23&logo=github" alt="GitHub Followers"/>
+    </a>
+    <a href="https://github.com/sayam-1705?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-Check%20them%20out-58A6FF?style=for-the-badge&labelColor=1B1F23&logo=github" alt="Repositories"/>
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=sayam-1705">
+      <img src="https://komarev.com/ghpvc/?username=sayam-1705&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+    </a>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58A6FF?style=for-the-badge&labelColor=1B1F23" alt="Focus"/>
+  </p>
+</div>
 
 ---
 
-<details open>
-  <summary>✨ <b>About Me</b></summary>
+## 🚀 About Me
 
-- **Name:** Sayam — GitHub: [@sayam-1705](https://github.com/sayam-1705)
-- **Role:** Full‑stack developer focused on building well‑structured web applications and APIs.
-- **Tech:** Node.js, TypeScript, Next.js, React, databases, and modern web tooling.
-- **Work style:** Clean, maintainable code, clear documentation, and pragmatic problem solving.
-- **Open to:** Collaborating on projects, exchanging ideas, and contributing to open‑source.
-
-</details>
+```typescript
+const sayam = {
+    name: "Sayam Mondal",
+    role: "Full Stack Developer",
+    location: "Earth 🌍",
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C"],
+    technologies: {
+        frontEnd: ["React", "Next.js", "Tailwind CSS"],
+        backEnd: ["Node.js", "Express"],
+        databases: ["MongoDB", "MySQL"],
+        tools: ["Git", "VS Code", "Vercel"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "Code is like humor — when you have to explain it, it's bad!"
+};
+```
 
 ---
 
@@ -30,36 +44,22 @@
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,java,python" title="Languages" alt="Languages"/>
 </p>
 
 ### 🧩 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" title="ReactJS" alt="ReactJS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind" title="Frameworks & Libraries" alt="Frameworks & Libraries"/>
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" title="Databases" alt="Databases"/>
 </p>
 
 ### 🧰 Tools & IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40" style="background:white; border-radius:8px;"/>
+  <img src="https://skillicons.dev/icons?i=git,vercel,vscode,idea" title="Git" alt="Git"/>
 </p>
 
 ---
@@ -67,33 +67,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam-1705&layout=compact&theme=tokyonight" width="35%" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayam-1705&layout=compact&theme=tokyonight" width="35%" alt="Most Used Languages"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sayam-1705&hide=stars&show=prs_merged&show_icons=true&theme=tokyonight" width="35%" alt="Github Stats"/>
 </p>
 
 ---
 
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="mailto:sayam2022mondal@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mondalsayam/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/sayam.1705/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://www.facebook.com/sayam.1705" target="_blank">
-    <!-- Facebook SVG in official blue -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" title="Facebook" alt="Facebook" width="40" height="40" style="border-radius:8px; padding:4px; background:#1877f2;"/>
-  </a>
-  <a href="https://x.com/sayam_1705" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" title="X (Twitter)" alt="X (Twitter)" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/sayam-1705" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="40" height="40"/>
-  </a>
+## 🏆 GitHub Trophies
+  
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=sayam-1705&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -109,3 +93,36 @@
 </p>
 
 ---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="mailto:sayam2022mondal@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mondalsayam/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/sayam.1705/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/sayam.1705" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" title="Facebook" alt="Facebook" width="40" height="40" style="border-radius:8px; padding:4px; background:#1877f2;"/>
+  </a>
+  <a href="https://x.com/sayam_1705" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" title="X (Twitter)" alt="X (Twitter)" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/sayam-1705" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>⭐️ Star my repositories if you find them helpful!</em>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,8,15&height=100&section=footer" width="100%"/>
+</div>
