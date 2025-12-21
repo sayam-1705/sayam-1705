@@ -93,9 +93,6 @@ const sayam = {
           <a href="https://github.com/sayam-1705/recipe-nest" target="_blank">
             <img src="https://img.shields.io/badge/Code-View-00D9FF?style=for-the-badge&logo=github&labelColor=1a1b27"/>
           </a>
-          <a href="https://recipe-nest-web.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/Live-Demo-00FF85?style=for-the-badge&logo=vercel&labelColor=1a1b27"/>
-          </a>
         </p>
         <p><strong>NestJS • TypeScript • MongoDB</strong></p>
         <p>A modular backend API for recipe management with CRUD operations, ingredient tracking, and authentication. Perfect for culinary apps!</p>
@@ -184,6 +181,9 @@ const sayam = {
 </table>
 
 <div align="center">
+  
+**💡 Also explore:** [Smart Traffic Signal System](https://github.com/sayam-1705/smart-traffic-signal-system) (C++ • IoT) • [Smart Trash Bin](https://github.com/sayam-1705/smart-trash-bin-with-automatic-lid) (C++ • IoT) • [Biodata Website](https://github.com/sayam-1705/biodata) (HTML/CSS)
+
   <a href="https://github.com/sayam-1705?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="View All Repositories"/>
   </a>
@@ -209,13 +209,13 @@ const sayam = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayam-1705/sayam-1705/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayam-1705/sayam-1705/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sayam-1705/sayam-1705/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
