@@ -112,8 +112,8 @@ const sayam = {
             <img src="https://img.shields.io/badge/Code-View-00D9FF?style=for-the-badge&logo=github&labelColor=1a1b27"/>
           </a>
         </p>
-        <p><strong>React • Node.js • Weather API</strong></p>
-        <p>Smart meal planning app with personalized recommendations, seasonal filters, and weather-adaptive meals! 🥦📊</p>
+        <p><strong>React • Vite • JavaScript • Weather API</strong></p>
+        <p>Smart meal planning app with personalized recipe suggestions, seasonal filters, weather-adaptive meals, and nutritional insights! 🥦📊</p>
       </div>
     </td>
   </tr>
@@ -166,21 +166,18 @@ const sayam = {
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">IoT Projects</h3>
+      <h3 align="center">City Network Planner</h3>
       <div align="center">
-        <a href="https://github.com/sayam-1705/smart-traffic-signal-system" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayam-1705&repo=smart-traffic-signal-system&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Smart Traffic" />
+        <a href="https://github.com/sayam-1705/city_network_connection_planner" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayam-1705&repo=city_network_connection_planner&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="City Network" />
         </a>
         <p>
-          <a href="https://github.com/sayam-1705/smart-traffic-signal-system" target="_blank">
-            <img src="https://img.shields.io/badge/Traffic-View-00D9FF?style=for-the-badge&logo=github&labelColor=1a1b27"/>
-          </a>
-          <a href="https://github.com/sayam-1705/smart-trash-bin-with-automatic-lid" target="_blank">
-            <img src="https://img.shields.io/badge/Trash_Bin-View-00FF85?style=for-the-badge&logo=github&labelColor=1a1b27"/>
+          <a href="https://github.com/sayam-1705/city_network_connection_planner" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View-00D9FF?style=for-the-badge&logo=github&labelColor=1a1b27"/>
           </a>
         </p>
-        <p><strong>C++ • Arduino • IoT</strong></p>
-        <p>Smart traffic signal system and automatic trash bin with sensors. Innovative IoT solutions!</p>
+        <p><strong>C • Kruskal's Algorithm • Graph Theory</strong></p>
+        <p>Cost-effective inter-city network planning using Kruskal's MST algorithm. Models cities as graph nodes!</p>
       </div>
     </td>
   </tr>
