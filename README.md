@@ -65,23 +65,26 @@ const sayam = {
 
 ### 🎯 What I Do
 
-```yaml
-mission: "Transform ideas into elegant code"
+<blockquote>
+<p><strong>Mission:</strong> Transform ideas into elegant code</p>
+</blockquote>
 
-principles:
-  - Clean & maintainable code
-  - User-centric design
-  - Continuous learning
-  - Open source contribution
+#### 💡 My Principles
+- 🧹 **Clean & maintainable code** - Write code that others (and future me) can understand
+- 👥 **User-centric design** - Build solutions that solve real problems
+- 📚 **Continuous learning** - Stay curious and embrace new technologies
+- 🤝 **Open source contribution** - Give back to the community
 
-current_status:
-  - 🔭 Exploring new technologies
-  - 🌱 Growing my skill set
-  - 👯 Open to collaborations
-  - 💬 Always happy to help
-  - 📫 Reach me anytime
-  - ⚡ Quick learner & problem solver
-```
+#### 🚀 Current Status
+- 🔭 Exploring new technologies and frameworks
+- 🌱 Growing my skill set every day
+- 👯 Open to collaborations on exciting projects
+- 💬 Always happy to help and share knowledge
+- 📫 Reach me anytime for discussions
+- ⚡ Quick learner & passionate problem solver
+
+#### 😄 Fun Fact
+> *"Code is like humor — when you have to explain it, it's bad!"*
 
 </td>
 </tr>
@@ -180,31 +183,7 @@ current_status:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayam-1705&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayam-1705&theme=tokyonight" alt="Profile Summary" />
-</div>
-
-<!-- Trophies Section -->
-<div align="center">
-  
-  ## 🏆 GitHub Trophies
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=sayam-1705&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  
-  ## 📈 Contribution Graph
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayam-1705&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-  
 </div>
 
 <br/>
@@ -276,23 +255,6 @@ current_status:
       </td>
     </tr>
   </table>
-  
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  
-  ## 🐍 Contribution Snake
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayam-1705/sayam-1705/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayam-1705/sayam-1705/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sayam-1705/sayam-1705/output/github-contribution-grid-snake.svg" />
-  </picture>
-  
-  <p><sub>Note: Snake animation requires GitHub Actions workflow setup</sub></p>
   
 </div>
 
