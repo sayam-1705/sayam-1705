@@ -1,8 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,13,20&height=200&section=header&text=Sayam%20Mondal&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sayam+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Let's+build+something+amazing+%F0%9F%92%BB" alt="Say hi!" />
-
   <p>
     <a href="https://github.com/sayam-1705?tab=followers">
         <img src="https://img.shields.io/github/followers/sayam-1705?label=Followers&style=for-the-badge&color=58A6FF&labelColor=1B1F23&logo=github" alt="GitHub Followers"/>
