@@ -79,7 +79,7 @@ const sayam = {
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
