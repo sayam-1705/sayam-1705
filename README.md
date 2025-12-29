@@ -74,7 +74,7 @@ const sayam = {
 ## 🏆 GitHub Trophies
   
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sayam-1705&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=sayam-1705&theme=tokyonight" alt="GitHub Trophies"/>
 </p>
 
 ---
