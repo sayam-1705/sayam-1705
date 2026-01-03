@@ -65,16 +65,6 @@ const sayam = {
 
 <p align="center">
   <img src="https://my-own-readme-stats.vercel.app/api/top-langs?username=sayam-1705&layout=compact&theme=tokyonight&stats_format=bytes" width="35%" alt="Most Used Languages"/>
-  <br>
-  <img src="https://my-own-readme-stats.vercel.app/api?username=sayam-1705&show=prs_merged&show_icons=true&theme=tokyonight" width="35%" alt="Github Stats"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-  
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sayam-1705&theme=tokyonight" alt="GitHub Trophies"/>
 </p>
 
 ---
