@@ -49,14 +49,14 @@ const sayam = {
   <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind" title="Frameworks & Libraries" alt="Frameworks & Libraries"/>
 </p>
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" title="Databases" alt="Databases"/>
-</p>
-
 ### 🧰 Tools & IDEs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,vercel,vscode,idea" title="Git" alt="Git"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" title="Databases" alt="Databases"/>
 </p>
 
 ---
