@@ -104,12 +104,6 @@ const sayam = {
   </a>
 </p>
 
----
-
-<p align="center">
-  <em>⭐️ Star my repositories if you find them helpful!</em>
-</p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,8,15&height=100&section=footer" width="100%"/>
 </div>
