@@ -21,17 +21,17 @@
 ```typescript
 const sayam = {
     name: "Sayam Mondal",
-    role: "Full Stack Developer",
+    role: "Full Stack Developer | B.Tech ECSE @ KIIT",
     location: "Earth 🌍",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C"],
+    code: ["JavaScript", "TypeScript", "Java", "Python", "C"],
     technologies: {
         frontEnd: ["React", "Next.js", "Tailwind CSS"],
         backEnd: ["Node.js", "Express"],
         databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "VS Code", "Vercel"]
+        tools: ["Git", "GitHub", "VS Code", "Vercel"]
     },
-    currentFocus: "Building scalable web applications",
-    funFact: "Code is like humor — when you have to explain it, it's bad!"
+    focus: ["Scalable Web Apps", "DSA", "Cloud & Networking"],
+    funFact: "Code is like humor — when you have to explain it, it's bad! 😄"
 };
 ```
 
@@ -90,7 +90,7 @@ const sayam = {
   <a href="https://www.linkedin.com/in/mondalsayam/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/sayam.1705/" target="_blank">
+  <a href="https://www.instagram.com/_sayam_m/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/sayam.1705" target="_blank">
