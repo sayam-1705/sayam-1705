@@ -32,7 +32,7 @@ const sayam = {
   code: ["JavaScript", "TypeScript", "Java", "Python", "C"],
   technologies: {
     frontEnd: ["React", "Next.js", "Tailwind CSS"],
-    backEnd:  ["Node.js", "Express", "NestJS"],
+    backEnd:  ["Node.js", "Express"],
     databases: ["MongoDB", "MySQL", "PostgreSQL"],
     tools:    ["Git", "GitHub", "VS Code", "Vercel"],
   },
@@ -45,90 +45,13 @@ const sayam = {
 
 ## 📌 Projects
 
-### 🧩 file-merge
+| 🧩 file-merge | 📓 journal-app |
+|---|---|
+| A tool that **converts multiple files into a single `.txt`** for easy extraction and processing.<br><br><details><summary><b>Highlights</b></summary><br>- Supports `.js`, `.ts`, `.html`, `.css`, `.py`, `.json`, `.md` and more<br>- Preserves file structure in output<br>- React frontend + Node/Express backend<br></details><br>[![Live Demo](https://img.shields.io/badge/Live%20Demo-1B1F23?style=for-the-badge&logo=vercel)](https://file-merge-frontend.vercel.app)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node/Express](https://img.shields.io/badge/Node.js%20%2F%20Express-339933?style=flat-square&logo=node.js&logoColor=white) | A **minimal journal web app** with a clean writing flow and organized entries.<br><br><details><summary><b>Highlights</b></summary><br>- Built with React + Vite<br>- Deployed on Vercel<br>- Simple, consistent journaling experience<br></details><br>[![Live Demo](https://img.shields.io/badge/Live%20Demo-1B1F23?style=for-the-badge&logo=vercel)](https://journal-app-front.vercel.app)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React + Vite](https://img.shields.io/badge/React%20%2B%20Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 
-A tool that **converts multiple files into a single `.txt`**, supporting many formats for easy extraction and processing.
-
-<details>
-<summary><b>Highlights</b></summary>
-
-- Supports many formats: `.js`, `.ts`, `.html`, `.css`, `.py`, `.json`, `.md` and more
-- Merges selected files into a single `.txt` output
-- Preserves file structure in the output
-- Full-stack setup: React frontend + Node/Express backend
-
-</details>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-1B1F23?style=for-the-badge&logo=vercel)](https://file-merge-frontend.vercel.app)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node/Express](https://img.shields.io/badge/Node.js%20%2F%20Express-339933?style=flat-square&logo=node.js&logoColor=white)
-
----
-
-### 📓 journal-app
-
-A **minimal journal web app** with a clean writing flow and well-organized entries.
-
-<details>
-<summary><b>Highlights</b></summary>
-
-- Frontend deployed on Vercel
-- Built with React + Vite for a fast dev experience
-- Designed to keep journaling simple and consistent
-
-</details>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-1B1F23?style=for-the-badge&logo=vercel)](https://journal-app-front.vercel.app)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React + Vite](https://img.shields.io/badge/React%20%2B%20Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
----
-
-### 🍳 recipe-nest
-
-A **modular, scalable recipe app** with recipe discovery, weather-based recommendations, nutrition analysis, and authentication.
-
-<details>
-<summary><b>Highlights</b></summary>
-
-- Recipe discovery with smart filters
-- Weather-based recipe suggestions
-- Nutrition analysis via Edamam API
-- Auth with JWT + Google OAuth
-- Responsive, mobile-first UI
-
-</details>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-1B1F23?style=for-the-badge&logo=vercel)](https://recipe-nest-web.vercel.app)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-### 🏎️ f1-website
-
-A **scroll-driven showcase** website for the fictional Formula 1 team *Vortex Axiom Racing* and their debut car.
-
-<details>
-<summary><b>Highlights</b></summary>
-
-- Scroll-driven hero animation using a canvas image sequence
-- Interactive hotspots + component breakdown
-- Telemetry visuals, gallery, and timeline sections
-- Built with Framer Motion + Tailwind CSS
-
-</details>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-1B1F23?style=for-the-badge&logo=vercel)](https://vortex-axiom-racing.vercel.app)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-FF0055?style=flat-square&logo=framer&logoColor=white)
+| 🍳 recipe-nest | 🏎️ f1-website |
+|---|---|
+| A **modular recipe app** with discovery, weather-based suggestions, nutrition analysis, and auth.<br><br><details><summary><b>Highlights</b></summary><br>- Smart filters + weather-based recommendations<br>- Nutrition analysis via Edamam API<br>- JWT + Google OAuth authentication<br>- Responsive, mobile-first UI<br></details><br>[![Live Demo](https://img.shields.io/badge/Live%20Demo-1B1F23?style=for-the-badge&logo=vercel)](https://recipe-nest-web.vercel.app)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | A **scroll-driven showcase** for fictional F1 team *Vortex Axiom Racing* and their debut car.<br><br><details><summary><b>Highlights</b></summary><br>- Canvas image sequence hero animation<br>- Interactive hotspots + component breakdown<br>- Telemetry visuals, gallery, and timeline<br>- Framer Motion + Tailwind CSS<br></details><br>[![Live Demo](https://img.shields.io/badge/Live%20Demo-1B1F23?style=for-the-badge&logo=vercel)](https://vortex-axiom-racing.vercel.app)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-FF0055?style=flat-square&logo=framer&logoColor=white) |
 
 ---
 
