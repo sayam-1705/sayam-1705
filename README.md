@@ -85,6 +85,14 @@ const sayam = {
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://my-own-readme-stats.vercel.app/api/top-langs?username=sayam-1705&layout=compact&theme=tokyonight&stats_format=bytes" width="35%" alt="Most Used Languages"/>
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
