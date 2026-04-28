@@ -107,31 +107,26 @@ const sayam = {
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="mailto:sayam2022mondal@gmail.com" target="_blank" title="Gmail">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" />
+<div align="center">
+  <a href="mailto:sayam2022mondal@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/mondalsayam/" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
+  <a href="https://www.linkedin.com/in/sayammondal/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/_sayam_m/" target="_blank" title="Instagram">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" />
+  <a href="https://www.instagram.com/_sayam_m/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
-  &nbsp;
-  <a href="https://www.facebook.com/sayam.1705" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" title="Facebook" alt="Facebook" width="40" height="40" style="border-radius:8px; padding:4px; background:#1877f2;"/>
+  <a href="https://www.facebook.com/sayam.1705">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40" style="border-radius:8px; padding:4px; background:#1877f2;" />
   </a>
-  &nbsp;
-  <a href="https://x.com/sayam_1705" target="_blank" title="X (Twitter)">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" width="40" height="40" />
+  <a href="https://x.com/sayam_1705">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
   </a>
-  &nbsp;
-  <a href="https://github.com/sayam-1705" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+  <a href="https://github.com/sayam-1705">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
-</p>
+</div>
 
 <br />
 
