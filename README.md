@@ -16,9 +16,7 @@
     <a href="https://komarev.com/ghpvc/?username=sayam-1705&style=for-the-badge&color=58A6FF&label=Profile+Views">
       <img src="https://komarev.com/ghpvc/?username=sayam-1705&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views" />
     </a>
-    <a href="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58A6FF?style=for-the-badge&labelColor=1B1F23">
-      <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58A6FF?style=for-the-badge&labelColor=1B1F23" alt="Focus" />
-    </a>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58A6FF?style=for-the-badge&labelColor=1B1F23" alt="Focus" />
   </p>
 </div>
 
@@ -47,40 +45,38 @@ const sayam = {
 
 ## 📌 Projects
 
-| 🍳 recipe-nest | 📓 journal-app |
-|---|---|
-| A **modular recipe app** with discovery, weather-based suggestions, nutrition analysis, and auth.<br><br><details><summary><b>Highlights</b></summary><br>- Smart filters + weather-based recommendations<br>- Nutrition analysis via Edamam API<br>- JWT + Google OAuth authentication<br>- Responsive, mobile-first UI<br></details><br>[![Live Demo](https://img.shields.io/badge/Live%20Demo-1B1F23?style=for-the-badge&logo=vercel)](https://recipe-nest-web.vercel.app)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | A **minimal journal web app** with a clean writing flow and organized entries.<br><br><details><summary><b>Highlights</b></summary><br>- Built with React + Vite<br>- Deployed on Vercel<br>- Simple, consistent journaling experience<br></details><br>[![Live Demo](https://img.shields.io/badge/Live%20Demo-1B1F23?style=for-the-badge&logo=vercel)](https://journal-app-front.vercel.app)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React + Vite](https://img.shields.io/badge/React%20%2B%20Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-
-| 🧩 file-merge | 🏎️ f1-website |
-|---|---|
-| A tool that **converts multiple files into a single `.txt`** for easy extraction and processing.<br><br><details><summary><b>Highlights</b></summary><br>- Supports `.js`, `.ts`, `.html`, `.css`, `.py`, `.json`, `.md` and more<br>- Preserves file structure in output<br>- React frontend + Node/Express backend<br></details><br>[![Live Demo](https://img.shields.io/badge/Live%20Demo-1B1F23?style=for-the-badge&logo=vercel)](https://file-merge-frontend.vercel.app)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node/Express](https://img.shields.io/badge/Node.js%20%2F%20Express-339933?style=flat-square&logo=node.js&logoColor=white) | A **scroll-driven showcase** for fictional F1 team *Vortex Axiom Racing* and their debut car.<br><br><details><summary><b>Highlights</b></summary><br>- Canvas image sequence hero animation<br>- Interactive hotspots + component breakdown<br>- Telemetry visuals, gallery, and timeline<br>- Framer Motion + Tailwind CSS<br></details><br>[![Live Demo](https://img.shields.io/badge/Live%20Demo-1B1F23?style=for-the-badge&logo=vercel)](https://vortex-axiom-racing.vercel.app)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-FF0055?style=flat-square&logo=framer&logoColor=white) |
+| Project | Description | Live |
+|:--------|:------------|:----:|
+| **Recipe Nest** | A modular NextJS application for scalable recipe management. Features robust CRUD operations, ingredient tracking, and secure user authentication. | [![Live](https://img.shields.io/badge/Live%20Demo-1F1F23?style=flat-square&logo=vercel&logoColor=white)](https://recipe-nest-web.vercel.app) |
+| **Journal App** | A focused writing environment built with React and Vite. Designed for minimalists who value simplicity and clarity in their daily journaling. | [![Live](https://img.shields.io/badge/Live%20Demo-1F1F23?style=flat-square&logo=vercel&logoColor=white)](https://journal-app-front.vercel.app) |
+| **File Merge** | A utility tool for seamless file concatenation. Supports multiple formats for efficient text extraction and batch processing. | [![Live](https://img.shields.io/badge/Live%20Demo-1F1F23?style=flat-square&logo=vercel&logoColor=white)](https://file-merge-frontend.vercel.app) |
+| **EcoTrackAI** | A production-ready IoT energy monitoring platform. Leverages AI to provide real-time insights and automation for smart buildings. | [![Live](https://img.shields.io/badge/Live%20Demo-1F1F23?style=flat-square&logo=vercel&logoColor=white)](https://ecotrackai-dashboard.vercel.app) |
+| **Obsidian Editor** | A full-stack IDE supporting multi-language execution. Write, test, and share code in C, C++, Java, and Python from your browser. | [![Live](https://img.shields.io/badge/Live%20Demo-1F1F23?style=flat-square&logo=vercel&logoColor=white)](https://obsidian-editor.vercel.app) |
+| **Git Merged** | A web interface for GitHub analytics. Compare user profiles, view contribution graphs, language stats, starred repos, and organization contributors. | [![Live](https://img.shields.io/badge/Live%20Demo-1F1F23?style=flat-square&logo=vercel&logoColor=white)](https://gitmerged.vercel.app) |
+| **Codexa** | An AI-powered pre-commit guardian. Ensures code quality and consistency by enforcing best practices through intelligent, automated analysis. | [![Live](https://img.shields.io/badge/Live%20Demo-1F1F23?style=flat-square&logo=vercel&logoColor=white)](https://www.npmjs.com/package/codexa-toolkit) |
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,java,python" alt="Languages: HTML, CSS, JavaScript, TypeScript, C, Java, Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,java,python" alt="Languages" />
 </p>
 
 ### 🧩 Frameworks & Libraries
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind" alt="Frameworks: Node.js, Express, React, Next.js, Tailwind CSS," />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,nextjs,tailwind" alt="Frameworks" />
 </p>
 
 ### 🧰 Tools & IDEs
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vercel,vscode,idea" alt="Tools: Git, Vercel, VS Code, IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,npm" alt="Tools" />
 </p>
 
 ### 🗄️ Databases
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases: MongoDB, MySQL, PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
 </p>
 
 ---
